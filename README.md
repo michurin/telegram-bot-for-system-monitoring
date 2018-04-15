@@ -1,3 +1,7 @@
+| Note |
+|:-|
+| I freeze this project and I do not plan to continue to develop it. Instead of it I start [new one](https://github.com/michurin/instant-bot). It is the extendable Telegram bot too with very similar basic ideas: (i) all logic lies on separate user script, (ii) auto recognising text/images, (iii) local HTTP server to send asynchronious messages, etc. The new bot writen on Node.js. I beleave that Node.js is more sutable for such asynchronious network applications. You can get more information and examples on the [project page](https://github.com/michurin/instant-bot) right now. |
+
 Telegram bot for system monitoring and administration
 =====================================================
 
